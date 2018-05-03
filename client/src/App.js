@@ -46,7 +46,6 @@ class App extends Component {
           <h1 className="App-title">Test GraphQL App</h1>
         </header>
         <ChannelsListWithData/>
-
       </div>
     </ApolloProvider>
     );
